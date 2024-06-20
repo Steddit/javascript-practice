@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#cont{
+  width: 75%;
+  margin: auto;
+  padding: 25px;
+}
+#buttons{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr 2fr);
+  grid-ro
+  gap: 15px;
+}
